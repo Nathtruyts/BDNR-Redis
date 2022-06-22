@@ -1,2 +1,6 @@
 # BDNR-Redis
-Repositório da ativade numero 2 da disciplina de Banco de dados não relacional
+A atividade consiste em manipular uma chave-valor no redis, ultilizando Python.
+
+Estarei ultilizando de exemplo a minha collection de cupons, que possui a seguinte estrutura
+
+![Mongo collection](https://user-images.githubusercontent.com/78803504/174926180-960f0c88-7206-435a-8031-7d632c7dc780.png)
